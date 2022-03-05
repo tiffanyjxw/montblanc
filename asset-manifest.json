@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/montblanc/static/css/main.cb21aa15.css",
+    "main.js": "/montblanc/static/js/main.9dcf7dfd.js",
+    "static/js/787.08b16fc2.chunk.js": "/montblanc/static/js/787.08b16fc2.chunk.js",
+    "index.html": "/montblanc/index.html",
+    "main.cb21aa15.css.map": "/montblanc/static/css/main.cb21aa15.css.map",
+    "main.9dcf7dfd.js.map": "/montblanc/static/js/main.9dcf7dfd.js.map",
+    "787.08b16fc2.chunk.js.map": "/montblanc/static/js/787.08b16fc2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cb21aa15.css",
+    "static/js/main.9dcf7dfd.js"
+  ]
+}
